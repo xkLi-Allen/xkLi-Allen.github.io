@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Currently, Xunkai Li is a second year Ph.D. student of [School of Computer Science](https://cs.bit.edu.cn) in [Beijing Institute of Technology](https://bit.edu.cn) supervised by Prof. [Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). 
-Since 2022, he worked with Dr. [Zhang Wentao](https://zwt233.github.io) as a research intern at [Peking University](https://www.pku.edu.cn). 
+Since 2022, he worked with Dr. [Wentao Zhang](https://zwt233.github.io) as a research intern at [Peking University](https://www.pku.edu.cn). 
 Prior to that, he received his B.Eng. degree in computer science department from [Shandong University](http://www.sdu.edu.cn) in June 2022. 
 
 
