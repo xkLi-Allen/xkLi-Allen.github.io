@@ -41,7 +41,7 @@ Motivated by the industrial demand, Xunkai’s research focuses on
   By embracing a variety of graph structures, I aim to bolster the adaptability of graph-based models to diverse data architectures. The use of advanced graph structures, including <font color=orange>directed graphs</font>, <font color=orange>hypergraphs</font>, <font color=orange>heterophily</font>, and <font color=orange>temporal graphs</font>, is crucial for navigating the complexities of contemporary data landscapes. 
   My research in developing **effective graph models** in **various high-order relation data modeling** while maintaining **scalability in industry-based scenarios**.
 
-  Furthermore, the emphasis on distributed settings, exemplified by <font color=orange>**federated learning**</font>, highlights the global nature of contemporary data distribution. My research in **graph learning for distributed scenarios** strives to provide **scalable and efficient solutions**. This ensures the effective utilization of insights derived from graph-based models in a decentralized data landscape.
+  Furthermore, the emphasis on distributed settings, exemplified by <font color=orange>federated graph learning</font>, highlights the global nature of contemporary data distribution. My research in **graph learning for distributed scenarios** strives to provide **scalable and efficient solutions**. This ensures the effective utilization of insights derived from graph-based models in a decentralized data landscape.
 
 
 
