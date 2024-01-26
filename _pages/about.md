@@ -11,7 +11,7 @@ redirect_from:
 Currently, Xunkai Li is a second year Ph.D. student of [School of Computer Science](https://cs.bit.edu.cn) in [Beijing Institute of Technology](https://bit.edu.cn) supervised by Prof. [Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). 
 
 Since 2022, he worked with Dr. [Wentao Zhang](https://zwt233.github.io) as a research intern at the Data-centric Machine Learning (DCML) group in the [Center of Machine Learning Research](https://cmlr.pku.edu.cn/People/Faculty/5ce37bd8e3244030ae3f34e01d23e761.htm) at [Peking University (PKU)](https://www.pku.edu.cn/). 
-As an active member of the team, Xunkai is the contributor or designer of scalable graph learning system project [SGL](https://github.com/PKU-DAIR/SGL) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-DAIR/SGL?style=social),
+As an active member of the team, Xunkai is the contributor of scalable graph learning system project [SGL](https://github.com/PKU-DAIR/SGL) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-DAIR/SGL?style=social),
 
 Prior to that, he received his B.Eng. degree in computer science department from [Shandong University](http://www.sdu.edu.cn) in June 2022. 
 

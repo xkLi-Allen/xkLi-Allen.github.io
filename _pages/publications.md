@@ -20,14 +20,17 @@ author_profile: true
 
 2.  *AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity.* [To appear] <br>
     **Xunkai Li**, Zhenyu Wu,  Wentao Zhang, Henan Sun, Ronghua Li, Gouren Wang. <br>
+    IEEE International Conference on Data Engineering. <br>
     ***ICDE 2024, CCF-A***.
 
 3.  *Towards Effective and General Graph Unlearning via Mutual Evolution.* [To appear] <br>
     **Xunkai Li<sup>\*</sup>**, Yulin Zhao<sup>\*</sup>, Zhengyu Wu, Wentao Zhang, Ronghua Li, Gouren Wang. <br>
+    Association for the Advancement of Artificial Intelligence. <br>
     ***AAAI 2024, CCF-A***. <font color=orange>Oral Presentation</font>
 
 4.  *Rethinking Node-wise Propagation for Large-scale Graph Learning.* [To appear] <br>
     **Xunkai Li**, Jingyuan Ma, Zhengyu Wu, Daohan Su, Wentao Zhang, Rong-Hua Li, Guoren Wang. <br>
+    The Web Conference. International World Wide Web Conference. <br>
     ***WWW 2024, CCF-A***.
 
 2023
