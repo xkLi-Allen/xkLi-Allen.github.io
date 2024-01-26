@@ -20,7 +20,7 @@ Prior to that, he received his B.Eng. degree in computer science department from
 
 **[Wechat (微信)](https://zwt233.github.io/wechat/)**: 18045124943
 
-If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat :)
+If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat!
 
 
 Motivated by the industrial demand, Xunkai’s research focuses on
