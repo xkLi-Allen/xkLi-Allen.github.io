@@ -59,7 +59,7 @@ author_profile: true
 
 
 2.  *Graph relation embedding network for click-through rate prediction.* [[Paper](https://www.sciencedirect.com/science/article/pii/S0306437922000448)] <br>
-    Xin Xiong, **Xunkai Li**, Youpeng Hu, Yixuan Wu, Jian Yin. <br>
+    Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng. <br>
     ***Knowledge and Information Systems 2022, CCF-B***. 
 
 
