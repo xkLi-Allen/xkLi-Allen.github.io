@@ -26,7 +26,7 @@ author_profile: true
 3.  *Rethinking Node-wise Propagation for Large-scale Graph Learning.* [[Paper](https://arxiv.org/abs/2402.06128)] [[Code](https://github.com/xkLi-Allen/ATP)] <br>
     **Xunkai Li**, Jingyuan Ma, Zhengyu Wu, Daohan Su, Wentao Zhang, Rong-Hua Li, Guoren Wang. <br>
     The Web Conference. International World Wide Web Conference. <br>
-    ***WWW 2024, CCF-A***.
+    ***WWW 2024, CCF-A***. <font color=orange>Oral Presentation</font>
 
 4.  *LightDiC: A Simple yet Effective Approach for Large-scale Digraph Representation Learning.* [[Paper](https://arxiv.org/abs/2401.11772)] [[Code](https://github.com/xkLi-Allen/LightDiC)] <br>
     **Xunkai Li**, Meihao Liao, Zhengyu Wu, Daohan Su, Wentao Zhang, Rong-Hua Li, Guoren Wang. <br>
