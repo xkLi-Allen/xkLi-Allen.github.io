@@ -14,12 +14,12 @@ author_profile: true
 2024
 ====
 1.  *AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity.* [[Paper](https://arxiv.org/abs/2401.11750)] [[Code](https://github.com/xkLi-Allen/AdaFGL)] <br>
-    **Xunkai Li**, Zhenyu Wu,  Wentao Zhang, Henan Sun, Ronghua Li, Gouren Wang. <br>
+    **Xunkai Li**, Zhenyu Wu,  Wentao Zhang, Henan Sun, Rong-Hua Li, Gouren Wang. <br>
     IEEE International Conference on Data Engineering. <br>
     ***ICDE 2024, CCF-A***.
 
 2.  *Towards Effective and General Graph Unlearning via Mutual Evolution.* [[Paper](https://arxiv.org/abs/2401.11760)] [[Code](https://github.com/xkLi-Allen/MEGU)] <br>
-    **Xunkai Li<sup>\*</sup>**, Yulin Zhao<sup>\*</sup>, Zhengyu Wu, Wentao Zhang, Ronghua Li, Gouren Wang. <br>
+    **Xunkai Li<sup>\*</sup>**, Yulin Zhao<sup>\*</sup>, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Gouren Wang. <br>
     Association for the Advancement of Artificial Intelligence. <br>
     ***AAAI 2024, CCF-A***. <font color=orange>Oral Presentation</font>
 
@@ -33,10 +33,15 @@ author_profile: true
     International Conference on Very Large Data Bases. <br>
     ***VLDB 2024, CCF-A***.
 
+4.  *Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification.* [[Paper](https://arxiv.org/abs/2312.04111)] [[Code](https://github.com/xkLi-Allen/AMUD-ADPA)] <br>
+    Henan Sun<sup>\*</sup>, **Xunkai Li<sup>\*</sup>**, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang. <br>
+    IEEE International Conference on Data Engineering. <br>
+    ***ICDE 2024, CCF-A***.
+
 2023
 ====
 1.  *FedGTA: Topology-aware Averaging for Federated Graph Learning.* [[Paper](https://arxiv.org/abs/2401.11755)] [[Code](https://github.com/xkLi-Allen/FedGTA)] <br>
-    **Xunkai Li**, Zhenyu Wu, Wentao Zhang, Yinlin Zhu, Ronghua Li, Guoren Wang.<br>
+    **Xunkai Li**, Zhenyu Wu, Wentao Zhang, Yinlin Zhu, Rong-Hua Li, Guoren Wang.<br>
     International Conference on Very Large Data Bases. <br>
     ***VLDB 2023, CCF-A***.
 
