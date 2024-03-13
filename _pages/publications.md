@@ -33,7 +33,7 @@ author_profile: true
     International Conference on Very Large Data Bases. <br>
     ***VLDB 2024, CCF-A***.
 
-4.  *Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification.* [[Paper](https://arxiv.org/abs/2312.04111)] [[Code](https://github.com/xkLi-Allen/AMUD-ADPA)] <br>
+5.  *Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification.* [[Paper](https://arxiv.org/abs/2312.04111)] [[Code](https://github.com/xkLi-Allen/AMUD-ADPA)] <br>
     Henan Sun<sup>\*</sup>, **Xunkai Li<sup>\*</sup>**, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang. <br>
     IEEE International Conference on Data Engineering. <br>
     ***ICDE 2024, CCF-A***.
