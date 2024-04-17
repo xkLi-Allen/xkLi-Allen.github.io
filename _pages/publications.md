@@ -8,8 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
-<sup>*</sup> indicates equal contribution, 
-<sup>#</sup> indicates corresponding author
+<!-- <sup>*</sup> indicates equal contribution,  -->
+<sup>#</sup> indicates equal contribution
 
 2024
 ====
@@ -19,7 +19,7 @@ author_profile: true
     ***ICDE 2024, CCF-A***.
 
 2.  *Towards Effective and General Graph Unlearning via Mutual Evolution.* [[Paper](https://arxiv.org/abs/2401.11760)] [[Code](https://github.com/xkLi-Allen/MEGU)] <br>
-    **Xunkai Li<sup>\*</sup>**, Yulin Zhao<sup>\*</sup>, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Gouren Wang. <br>
+    **Xunkai Li<sup>\#</sup>**, Yulin Zhao<sup>\#</sup>, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Gouren Wang. <br>
     Association for the Advancement of Artificial Intelligence. <br>
     ***AAAI 2024, CCF-A***. <font color=orange>Oral Presentation</font>
 
@@ -34,7 +34,7 @@ author_profile: true
     ***VLDB 2024, CCF-A***.
 
 5.  *Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification.* [[Paper](https://arxiv.org/abs/2312.04111)] [[Code](https://github.com/xkLi-Allen/AMUD-ADPA)] <br>
-    Henan Sun<sup>\*</sup>, **Xunkai Li<sup>\*</sup>**, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang. <br>
+    Henan Sun<sup>\#</sup>, **Xunkai Li<sup>\#</sup>**, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang. <br>
     IEEE International Conference on Data Engineering. <br>
     ***ICDE 2024, CCF-A***.
 
