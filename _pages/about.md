@@ -49,6 +49,7 @@ Motivated by the industrial demand, Xunkai’s research focuses on
 **<font color=red>What's New</font>**
 ------
 
+* **2024-04**: One paper is accepted by ***IJCAI 2024***.
 * **2024-03**: One paper is accepted by ***ICDE 2024***.
 * **2024-02**: One paper is accepted by ***VLDB 2024***.
 * **2024-01**: One paper is accepted by ***WWW 2024***.

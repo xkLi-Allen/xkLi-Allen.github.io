@@ -38,6 +38,11 @@ author_profile: true
     IEEE International Conference on Data Engineering. <br>
     ***ICDE 2024, CCF-A***.
 
+6.  *FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning.* [To appear] <br>
+    Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li. <br>
+    International Joint Conference on Artificial  Intelligence. <br>
+    ***IJCAI 2024, CCF-A***.
+
 2023
 ====
 1.  *FedGTA: Topology-aware Averaging for Federated Graph Learning.* [[Paper](https://arxiv.org/abs/2401.11755)] [[Code](https://github.com/xkLi-Allen/FedGTA)] <br>
